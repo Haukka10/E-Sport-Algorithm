@@ -1,0 +1,6 @@
+﻿  LeagueAlgorithm.cpp
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\RanksClass\LeagueAlgorithm.cpp(15,32): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+  Skills.cpp
+  Teams.cpp
+main.obj : error LNK2005: "class std::vector<struct Team *,class std::allocator<struct Team *> > TeamsBufforVector" (?TeamsBufforVector@@3V?$vector@PEAUTeam@@V?$allocator@PEAUTeam@@@std@@@std@@A) already defined in ImpoertForFiles.obj
+C:\Users\Haukka10\source\repos\ESportAlgorithm\x64\Release\ESportAlgorithm.exe : fatal error LNK1169: one or more multiply defined symbols found

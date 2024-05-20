@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33522.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/haukka10/source/repos/esportalgorithm/esportalgorithm/src/render.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "b74c7ad1dfffa5f23d38b4cee72fd4b28a4ff33e93c68df9291bc93d7c7c47de"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/haukka10/source/repos/esportalgorithm/esportalgorithm/lib/teams.h"
+          },
+          "hashes": {
+            "sha-256": "87bb63e36c5569cfcc9bf19b79f821ba49000fcfb9851f8184d286fed5efe710"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/haukka10/source/repos/esportalgorithm/esportalgorithm/lib/players.h"
+          },
+          "hashes": {
+            "sha-256": "4ffa6f92517c9c7f7f7039aef406445254c8d9495931e1ab7a64466834d3eda4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/haukka10/source/repos/esportalgorithm/esportalgorithm/lib/leaguealgorithm.h"
+          },
+          "hashes": {
+            "sha-256": "a4fa0c12e505e9af9656a70689a3650f6f63e2229bb4b4ff9fef7d9d9dc8ad4f"
+          }
+        }
+      ]
+    }
+  ]
+}

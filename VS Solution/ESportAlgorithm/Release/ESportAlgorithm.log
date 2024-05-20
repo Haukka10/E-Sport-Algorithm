@@ -1,0 +1,21 @@
+﻿  ImpoertForFiles.cpp
+  MatchShower.cpp
+  NewTeamsAlgorithm.cpp
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\NewTeams\NewTeamsAlgorithm.cpp(29,19): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Players.cpp
+  ShowResults.cpp
+  Skills.cpp
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\Skills\Skills.cpp(23,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\Skills\Skills.cpp(25,24): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Teams.cpp
+  LeagueAlgorithm.cpp
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\RanksClass\LeagueAlgorithm.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\RanksClass\LeagueAlgorithm.cpp(41,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\RanksClass\LeagueAlgorithm.cpp(41,71): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Haukka10\source\repos\ESportAlgorithm\ESportAlgorithm\src\RanksClass\LeagueAlgorithm.cpp(64,17): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1017 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ESportAlgorithm.vcxproj -> C:\Users\Haukka10\source\repos\ESportAlgorithm\Release\ESportAlgorithm.exe
